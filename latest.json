@@ -1,11 +1,11 @@
 {
-  "version": "1.4.0",
-  "notes": "Update-Installer Test",
-  "pub_date": "2026-04-09T12:50:11Z",
+  "version": "1.5.0",
+  "notes": "Updater-Test",
+  "pub_date": "2026-04-09T13:07:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkRTZ1Voa1laTExrYW5pdmM4T3FvQkQwN1E1NDFVR2NsaHU4aC9PK0Y2ZFZCN3VFMHpydHZLR0pFcElERXRjL21BSVY1K0FPdmZTRmNJTXRabjlLQ3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzM4OTk2CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6Cnd4cmtyUjQvNjh5SThtNlFEKy8vRUxIZmFRQVNhdEZJUENSZHdoT0lGcGdndVJlM2hCWVhwcGx3RHQzbklrVjNPaUJZdTZhNG5McjloY2lFNnArV0N3PT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.4.0/PDF%20Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkVTQWZTRzhSV0hLRGM3UFlNc3JiZE11ZEYzalh3TDdzMGR1MXF6Z0xkM1QvS2x3RVM1c0lJdkFIU0ZaRFhFVjgwOUxNN2dzcmRuYUFQZUpJcks2MlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzQwMDY3CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CmRHTDlHTG0wVVRuc0VpUUQraGNNSm5QalRWa0ZRZ2l0TWJidGcyZDJaMU1xSkZGS0QrNTc2YWdGVjVoemFGOTMyTDVMVU5xbVpFSnorYnVVYzBQQkRRPT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.5.0/PDF%20Flattener.app.tar.gz"
     }
   }
 }
