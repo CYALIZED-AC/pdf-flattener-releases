@@ -1,11 +1,11 @@
 {
-  "version": "1.9.2",
-  "notes": "feat: macOS vibrancy + avec chaleur watermark",
-  "pub_date": "2026-04-09T20:20:21Z",
+  "version": "1.9.3",
+  "notes": "Replace logo watermark with subtle header text above card",
+  "pub_date": "2026-04-09T20:57:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWktkMzFkTzc4TW9kckdvU3hEc0U0bkpwMVZObmtnUTQ1WCt3MGFpVjFkMTBFazRoeEpWZk1xbUs0a2pWSUJwVFlhSElCNm54dWdPSVcxNFBJN3JieGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzY2MDIxCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6ClVvZjFJb0V1Sm5HVEM4OGhiMFRpRDVBYzh4NGhici8rcU9ZRkxwelFDVzdkZ0pPR09sOGNMbnJmRWNUbUhwVHBIaVNieldCSVpnUktzZVlCcmI1UURBPT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.2/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkk1TG1yMkZTN0FpN3JTOUoyZTF2MnlUNUI4bnZteFJpeXpuWDM2UUd3OWkweElnRWNhdkhBSnF6MCtvNjJhQ09CYzBMRUdqVU9CMWQ1OVExQXJmR2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzY4MjQwCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6Cll3cU9Td09VVjN1YnBtNVpYeHo3TFFDSWt4dS9IY09KNDdQTDVPZDBSMTBTajVUQUtxTmhDSmwzM1paMm9uVm4rRG0veVBCRFI5UEI5NmwwUm9wOEFnPT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.3/PDF.Flattener.app.tar.gz"
     }
   }
 }
