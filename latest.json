@@ -1,11 +1,11 @@
 {
-  "version": "1.8.6",
-  "notes": "Remove em-dashes from welcome screen text",
-  "pub_date": "2026-04-09T16:47:07Z",
+  "version": "1.9.0",
+  "notes": "UI redesign: alle 4 App-States nach Stitch-Design",
+  "pub_date": "2026-04-09T18:06:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkl5SjJjWXpRS214R0VYdFFQbThBaCszZDhJWGh0aXV3SzJzaUxBQ2pTTmlFSldmWHFnZVB0K2FaK2FESVYzYnJrMkszbTZZa0NyQk9TUGNua3hhRlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzUzMjI3CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6Ci9QUkdsVVJBRVlkeVJvbUFRbkdBa2NFK2VqUitNYndEcG43WmFmd3Z2OVdpTSs0dlhuRFhhdGdpTUk2UG1FZ3Flb1kxbnZ4eVdxUldaTVoySU0zNkR3PT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.8.6/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWlBSZFNaRDVGRHd4UTdiL3pmUDE0OFVBL1lrQ0dLb2YxQ0wyUlZnc2tMeHZNY0E1SUNKRUtJTHlxMXYrWWRzNmNiUjhjMm0zLytYWkllOHF1dmdMM1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzU4MDA4CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6ClFZVjNac2ZkeTNUa1pmeTJqQWRQTkd3aUl4VGdPV2gvWm5BRERqN1JibTV3MkhGbHNVYjhManJEcmJ0WENqaXdxZnY3dFY1YnFTVlVIdkVrWWZRZEN3PT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.0/PDF.Flattener.app.tar.gz"
     }
   }
 }
