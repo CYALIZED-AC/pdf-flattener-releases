@@ -1,11 +1,11 @@
 {
-  "version": "1.8.3",
-  "notes": "Add personalized welcome screen with avec chaleur branding",
-  "pub_date": "2026-04-09T16:26:16Z",
+  "version": "1.8.4",
+  "notes": "Welcome screen fits without scrolling",
+  "pub_date": "2026-04-09T16:31:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkhYNXFLWFF1bmVIMnFmQzJTWWFTZ1laMHRPODZNTkFEejM5SXNsazN4S2l3RUdCd1JlY2ZKSllpWElUcTJjME5icWJGaVBOOU9PY1grUjVqZU0wTFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzUxOTc2CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CnlRdGRQZDFkS05ncC8wajlpcUFucnFCOXE1VmV4d3Q4Ni9XV3NRWkV6STFYeGtrMTAvSjY5OWVxTWxzLzJ1amw4NUVkNFVwWVdCWndFc1EzVm5CM0RBPT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.8.3/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkRIUTZSS2VINFFlK3lVamxUUHFENklrYmo0UWdYZHJmODVMNlhtN0hmRkFBUHFNWnJFZGpBYmJQNXV6ZVpsT09aNjBqMk9IWEhQQmFXSEVBM01mNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzUyMjc1CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CmdOSUxscFFaTHoyMUtQdTBiMEI4bW5yKzliRzRKN2hFaHVpRTh0ZWJVK0hSaWR4ckh5THFxV1dBSFYwZzFDZTVOekVQRFdvS1F1d20zYWJqL2gwVUJRPT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.8.4/PDF.Flattener.app.tar.gz"
     }
   }
 }
