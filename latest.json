@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Erste Version — echte Rasterisierung: Text nicht mehr selektierbar, 200 DPI.",
-  "pub_date": "2026-04-09T10:08:29Z",
+  "version": "1.1.0",
+  "notes": "Sharper output quality: 300 DPI lossless PNG rendering",
+  "pub_date": "2026-04-09T11:30:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkQ4b0hVOXY2cW0zY2UzYnlKZ2pNa2ZtNWRUN1ZuU0crTHM3MmpZUGJPdkNnYWlic1Mxd2JnZW5RL2pZTlZMUFVVSDVWOS8vOGJxazJyK1ZlVTlRVHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzI5MjQ0CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6Cm1oYzFKS2VjdjF1ZFAzenNpYzg5UTdmcXBHc1lNQi9IdjRtMU9taDVQbzkybHpEaUhVSHpPVTZHUWZmQ1R1QnlhR2ZnTU1pWlg1VFZTOVBmcjdCd0FRPT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.0.0/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWlBhVWdrbHk3eVBFSVcvOTU1TVI5VFBsVWlQS0dlNUpZeTFSYnd4NXprUUhLMWYwRG9rNXFaZHFHUmdYVHF4R216V0Q2dnQ0SE5ESys0Q3pta0UrU1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzM0MjM1CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CnpRV3lDQWt6clBzRHNpOEdRWkszRVhWcGNZNHVuWEdXVDFZbERhM21GZDVQbVptNE1haFplSCtnWjgrd1ZEcDlBZWQ1Q2pWTzY5dC9oR2prODFxNkJBPT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.1.0/PDF%20Flattener.app.tar.gz"
     }
   }
 }
