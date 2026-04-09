@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "notes": "Sharper output quality: 300 DPI lossless PNG rendering",
+  "version": "1.2.0",
+  "notes": "TEST — bitte ignorieren",
   "pub_date": "2026-04-09T11:30:35Z",
   "platforms": {
     "darwin-aarch64": {
