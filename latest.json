@@ -1,11 +1,11 @@
 {
-  "version": "1.8.5",
-  "notes": "Redesign drop zone — no more nested box feel; upload area blends naturally into card",
-  "pub_date": "2026-04-09T16:42:02Z",
+  "version": "1.8.6",
+  "notes": "Remove em-dashes from welcome screen text",
+  "pub_date": "2026-04-09T16:47:07Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkNUN1NVT2t2T2JTU1RlbE5BNEllR1RwZVFtSmdheE9QSWNGQ3AzeDZ0NDJYRTN3NTNVbE0yNDhHR1lweHIzbFNJOVdWbFpMQ1VuSXhMYWVZcE9Jd2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzUyOTIyCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6Ck95bzMvVTVEYnJQWURLNmlncUZwYjdWQzh2UElBY3BVR2FxcG83MUpXZ0VKQi9qbjFXZ00vY3Y4S0trRlFXVVVjQ0VUNlVWUXdXZERGMEtSa3Z2eERRPT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.8.5/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkl5SjJjWXpRS214R0VYdFFQbThBaCszZDhJWGh0aXV3SzJzaUxBQ2pTTmlFSldmWHFnZVB0K2FaK2FESVYzYnJrMkszbTZZa0NyQk9TUGNua3hhRlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzUzMjI3CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6Ci9QUkdsVVJBRVlkeVJvbUFRbkdBa2NFK2VqUitNYndEcG43WmFmd3Z2OVdpTSs0dlhuRFhhdGdpTUk2UG1FZ3Flb1kxbnZ4eVdxUldaTVoySU0zNkR3PT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.8.6/PDF.Flattener.app.tar.gz"
     }
   }
 }
