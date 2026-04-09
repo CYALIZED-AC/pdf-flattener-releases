@@ -1,11 +1,11 @@
 {
-  "version": "1.8.0",
-  "notes": "Print-ready redesign: PDF/X-4 compliance (sRGB ICC + OutputIntents + XMP), dark UI shell, Fraunces display font, IBM Plex Sans/Mono, English copy throughout",
-  "pub_date": "2026-04-09T15:43:23Z",
+  "version": "1.8.2",
+  "notes": "Add Show in Finder button after saving",
+  "pub_date": "2026-04-09T15:54:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkYrVmFQNUxLUW9XZUZPb1g4SkpXSGNuOWY0S1FEOVNzT2xCU0lNQXY2Y2FkV2NPczFjTzY5L0M5VUh5UzZXMDVHV1BFOEZxckpLM0VpSEkwT25VMVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzQ5NDAzCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CjNRWDZHd1FhNW9RNnlxZmlCcE8xUG9GeXNxeTFkdjNDT0kxSzM1R0JYS1pKSlFUWjZrUVpnNkVPd1dDektudHNrUUNhQ2lKR3dHNjdEOU80dnF0QUR3PT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.8.0/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkl6ajhDcTR6K0tETGxaVkoxYUlESjdQbWdLWjl4UlJhZGNYZEZ6eVN6ZHhuYXpyS1BBNEpUTkUvSXdnbFRKbHJTMmR1Z2pDcHRwVXRCTWowRGYvcXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzUwMDk2CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6ClRqOTEvM1ZUNXZSTWxoSVB3T2ZjT2huclJ0RHgzZE5VTDdqV21LeW9IQUVOMnRqenQ5QmJicEF5SjlRZlhIdXdmSzM3NzBaRFNoVkRBdVpqeGluYUJnPT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.8.2/PDF.Flattener.app.tar.gz"
     }
   }
 }
