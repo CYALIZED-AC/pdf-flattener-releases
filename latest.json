@@ -1,11 +1,11 @@
 {
-  "version": "1.9.5",
-  "notes": "Add skip-welcome checkbox so the intro screen can be hidden on next launch",
-  "pub_date": "2026-04-10T00:00:00Z",
+  "version": "1.9.6",
+  "notes": "Fix canvas memory leak, silent empty pages, pdfjs page count divergence, XMP byte length, drag-leave flicker, and stale async state guards",
+  "pub_date": "2026-04-10T08:40:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkxQZytVNDJxaUVUYUl6Y21mUnV2R3NGekhZb1VaOU1GNmw1Z3A5OHdRMXdBT2FvWnFBRlN1TWhLVDdmMzlDS1pUQmppTitIUXF2VDArYnFWRXgyUXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODA5NjExCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6Cjk5SzhsR1pvZDFXU2JLelZ3YUtnb0RaOG9zSXRjb2J3VUkxY1g0aVZxb0ZSVHZseEZnd0haMXJxSlc2YTRjN3FIT1FpN2pwd2l6djZiNEsvdjk5eEJ3PT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.5/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWklGdkttRTdYNm5vYlV6TjlzVmZOOTU5UytGcUxnbVlvSGV5bVlkd2pJK0UvcGVpK2hKRzVGYWNDQkVkK0h3NXFhNldSNGQrUzBFMktQYUd5YzFPckFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODEwNDM0CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CkZSSjgreVVmbTN6WjdRc0Mzd05IRWlVaTNmbEh6VjV0Znh4aE05MGo4ek42UEx0amt0RlM4MDBJMnhxOXhjWC9YSW15cldOQUZNbXNlRWNyYWpzNkJRPT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.6/PDF.Flattener.app.tar.gz"
     }
   }
 }
