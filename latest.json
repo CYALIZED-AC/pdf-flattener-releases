@@ -1,11 +1,11 @@
 {
-  "version": "1.9.7",
-  "notes": "Fix DataCloneError: copy bytes before passing to pdfjs worker to prevent ArrayBuffer transfer",
-  "pub_date": "2026-04-10T08:53:17Z",
+  "version": "1.9.8",
+  "notes": "Fix XMP stream: pass string to pdf-lib context.stream, use correct UTF-8 byte length for Length field",
+  "pub_date": "2026-04-10T09:16:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkF2R2Qra0dQaFg5QVZicGNFWER4VGNFbXNiVFQzeUlKc1J5d1NHVk9EVEJyL0F1STRuS3NSYk9PbWp5Z1FTNURxQWJrTmZiSlBHaC9Cakd0ZFpwOEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODExMTk3CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CjlpNWlqS2xKME9YN2JzVFM1cGZWNUtuVW10VEpNMmcwTjRGYWt0S3E1aTloT1c0U0dpdy8wWkY1eVNFM0huYklWRG4vSXNjV2JLb2ttcURGZ25VR0N3PT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.7/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWk54eUhrcnBYTUVPejB1eGFYa0luNEg1TzBDS21KWDhrTGYvdDVNZ0RQK2ZZMVYvb2h5Q0F6TUNFalBWOS9vbkE5d3hDV21IZEtsbU5UeFI5Y3FIdWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODEyNTcxCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6ClhYU0IwaktCMFo0b3Bab0xORTFncGo4cnBTK1hEUnBqdmUvZWpDVmdaWDAyYkRNNkJ5Y0djVlk0bXp5cTNCVWJXY1hFMlk1aXZLT0VQeXhSL0dmSUFBPT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.8/PDF.Flattener.app.tar.gz"
     }
   }
 }
