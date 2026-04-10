@@ -1,11 +1,11 @@
 {
-  "version": "1.9.4",
-  "notes": "Add spinner and pulse animation during flattening so the app no longer appears frozen",
+  "version": "1.9.5",
+  "notes": "Add skip-welcome checkbox so the intro screen can be hidden on next launch",
   "pub_date": "2026-04-10T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWko2b0oyTFRRUG5WRU9NSjVqL0ZaOVR4VTRLejRsOW5CSEIxYmN6dEkzRXl6cFR0VVduZ1poWUJHTTBqUnd3M24zb0FaT1h1MVJYTTFabXlmdml6NXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODA5MTM1CWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CldZbGYxcHZLSzhsUkNWeStGSXpyb0gzZVlxUm9uMk1xVm94c2pOTGRVNVlVRFFNQ1ArZkMwVllvakFJSUxKVm5CaDlDZGY3L2FLNTJlOG1CcEV5Y0FBPT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.4/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkxQZytVNDJxaUVUYUl6Y21mUnV2R3NGekhZb1VaOU1GNmw1Z3A5OHdRMXdBT2FvWnFBRlN1TWhLVDdmMzlDS1pUQmppTitIUXF2VDArYnFWRXgyUXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODA5NjExCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6Cjk5SzhsR1pvZDFXU2JLelZ3YUtnb0RaOG9zSXRjb2J3VUkxY1g0aVZxb0ZSVHZseEZnd0haMXJxSlc2YTRjN3FIT1FpN2pwd2l6djZiNEsvdjk5eEJ3PT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.5/PDF.Flattener.app.tar.gz"
     }
   }
 }
