@@ -1,11 +1,15 @@
 {
-  "version": "1.9.8",
-  "notes": "Fix XMP stream: pass string to pdf-lib context.stream, use correct UTF-8 byte length for Length field",
-  "pub_date": "2026-04-10T09:16:11Z",
+  "version": "2.0.0",
+  "notes": "Universal Binary — runs natively on Intel and Apple Silicon",
+  "pub_date": "2026-04-11T09:33:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWk54eUhrcnBYTUVPejB1eGFYa0luNEg1TzBDS21KWDhrTGYvdDVNZ0RQK2ZZMVYvb2h5Q0F6TUNFalBWOS9vbkE5d3hDV21IZEtsbU5UeFI5Y3FIdWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODEyNTcxCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6ClhYU0IwaktCMFo0b3Bab0xORTFncGo4cnBTK1hEUnBqdmUvZWpDVmdaWDAyYkRNNkJ5Y0djVlk0bXp5cTNCVWJXY1hFMlk1aXZLT0VQeXhSL0dmSUFBPT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v1.9.8/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWlBSakVpY2F3Q3gwUHA5Z25CZVYxNGl4eGpiR1F3dlEvdGszMDVpdE92alR4ZUU0QU1uMHdGR01jQnl0dW5JRC9OMGl1eVBWVDVGNXlydkVycEs1MFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODk5OTkyCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CnhadmRBOUlMSTAvYjFxS3AxcmZWT1ZMWVlmczVhUDZPSmEzNU14S3p1dCtadVNPNmp4UHExMHkvOUtrVGpadm5rMXN2bVZXMVpWSTBSYUpSWmhOZ0N3PT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v2.0.0/PDF.Flattener.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWlBSakVpY2F3Q3gwUHA5Z25CZVYxNGl4eGpiR1F3dlEvdGszMDVpdE92alR4ZUU0QU1uMHdGR01jQnl0dW5JRC9OMGl1eVBWVDVGNXlydkVycEs1MFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODk5OTkyCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6CnhadmRBOUlMSTAvYjFxS3AxcmZWT1ZMWVlmczVhUDZPSmEzNU14S3p1dCtadVNPNmp4UHExMHkvOUtrVGpadm5rMXN2bVZXMVpWSTBSYUpSWmhOZ0N3PT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v2.0.0/PDF.Flattener.app.tar.gz"
     }
   }
 }
