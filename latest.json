@@ -1,15 +1,15 @@
 {
-  "version": "2.0.1",
-  "notes": "Add ? button to reopen info screen",
-  "pub_date": "2026-04-11T09:50:06Z",
+  "version": "2.0.2",
+  "notes": "Fix: info screen now reappears correctly after unchecking",
+  "pub_date": "2026-04-11T09:55:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWktScjlJMXFiSjdOemo3b2FmVTJQT2RRQ0dJUjJkTTNZaHhRS1RReXQ4RUlSZEhHeCtVRTlHUFAxbE4zNWhCV2U5TjB5M2xaRWpib3YwcmQ0ZFM3ZVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTAxMDAxCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6ClRPNkNJdjU4S2lLUGlzR2NKbHJZZmJxY0JQa2ZUZUQydXV6QWpGS2dwdktaSUR0d2lDRHh2bmpVWVhlbUUwNXRwNVMyTnBWYTNNRGw2TkpmSU1MckNRPT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v2.0.1/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkJDMUVFQVJiTEdtZ0JIMnFLL3BWZHduQkx0TGF0RXVOU2FHMjFjWld6Tm81ajVCd09KczBkKzU0OGZjSllxaGxtYWdaaFNEV2taemVkSk8yZ2hjNUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTAxMzAzCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6ClQ2T0dwd1BHSEFJVExLeUhTNHNUYmFqaTVpTlhXYmxMQ0tLM2liU0dMWnZQeGVnMG4raDFFSldrbUZsd1g0UjZlZnA4WmtCb0syVW5BSktVcnBIbEFnPT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v2.0.2/PDF.Flattener.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWktScjlJMXFiSjdOemo3b2FmVTJQT2RRQ0dJUjJkTTNZaHhRS1RReXQ4RUlSZEhHeCtVRTlHUFAxbE4zNWhCV2U5TjB5M2xaRWpib3YwcmQ0ZFM3ZVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTAxMDAxCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6ClRPNkNJdjU4S2lLUGlzR2NKbHJZZmJxY0JQa2ZUZUQydXV6QWpGS2dwdktaSUR0d2lDRHh2bmpVWVhlbUUwNXRwNVMyTnBWYTNNRGw2TkpmSU1MckNRPT0K",
-      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v2.0.1/PDF.Flattener.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcFFRbHlhdWIwWkJDMUVFQVJiTEdtZ0JIMnFLL3BWZHduQkx0TGF0RXVOU2FHMjFjWld6Tm81ajVCd09KczBkKzU0OGZjSllxaGxtYWdaaFNEV2taemVkSk8yZ2hjNUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTAxMzAzCWZpbGU6UERGIEZsYXR0ZW5lci5hcHAudGFyLmd6ClQ2T0dwd1BHSEFJVExLeUhTNHNUYmFqaTVpTlhXYmxMQ0tLM2liU0dMWnZQeGVnMG4raDFFSldrbUZsd1g0UjZlZnA4WmtCb0syVW5BSktVcnBIbEFnPT0K",
+      "url": "https://github.com/CYALIZED-AC/pdf-flattener-releases/releases/download/v2.0.2/PDF.Flattener.app.tar.gz"
     }
   }
 }
